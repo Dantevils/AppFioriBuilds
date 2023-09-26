@@ -1,0 +1,9 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="namespacefiori.fioriapp.controller.MainView" displayBlock="true">
+    <Page id="page" title="{i18n>title}">
+        <headerContent>
+            <Button xmlns="sap.m" id="Button"  icon="sap-icon://activate"> </Button>         
+        </headerContent>
+        <content/>
+        <Label id="label_1" text="texto de prueba"/>         
+    </Page>
+</mvc:View>
